@@ -58,5 +58,5 @@ Build based on [Jared Hanson](http://github.com/jaredhanson)'s [passport-foursqu
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2013 [Micah Fitzgerald](http://github.com/mcfitz2)
+Copyright (c) 2014 [Micah Fitzgerald](http://github.com/mcfitz2)
 
